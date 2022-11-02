@@ -1,0 +1,9 @@
+{
+    "name": "airgg/web2uts",
+    "description": "tugas uts",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "shuchkin/simplexlsx": "^1.0"
+    }
+}
